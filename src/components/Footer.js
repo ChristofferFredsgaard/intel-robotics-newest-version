@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-text'>
-          Spørgsmål? Skriv din mail, og vi kontakter dig hurtigst muligt!
+          Questions? Write your mail, and we'll contact you as soon as possible!
         </p>
         <div className='input-areas'>
           <form>
@@ -18,7 +18,7 @@ function Footer() {
               type='email'
               placeholder='Mail'
             />
-            <Button buttonStyle='btn--outline'>Kontakt Mig</Button>
+            <Button buttonStyle='btn--outline'>Contact Us</Button>
           </form>
         </div>
       </section>
@@ -26,9 +26,8 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
             <h2>About Us</h2>
-            <Link to='/sign-up'>How it works</Link>
+            <Link to='/about'>How it works</Link>
             <Link to='/'>Testimonials</Link>
-            <Link to='/'>Careers</Link>
             <Link to='/'>Investors</Link>
             <Link to='/'>Terms of Service</Link>
           </div>
@@ -42,11 +41,11 @@ function Footer() {
         </div>
         <div className='footer-link-wrapper'>
           <div class='footer-link-items'>
-            <h2>Videos</h2>
-            <Link to='/'>Submit Video</Link>
-            <Link to='/'>Ambassadors</Link>
-            <Link to='/'>Agency</Link>
-            <Link to='/'>Influencer</Link>
+            <h2>Products</h2>
+            <Link to='/'>Information</Link>
+            <Link to='/'>Robotics</Link>
+            <Link to='/'>The Industry</Link>
+            <Link to='/'>Our Products</Link>
           </div>
           <div class='footer-link-items'>
             <h2>Social Media</h2>

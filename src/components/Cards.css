@@ -26,10 +26,6 @@ h1 {
   z-index: 500;
 }
 
-.cards__items :hover {
-  box-shadow: 0 7px 21px rgba(56, 125, 255, 0.30);
-}
-
 .cards__item {
   display: flex;
   flex: 1;
@@ -56,10 +52,6 @@ h1 {
   overflow: hidden;
 }
 
-.cards__item__pic-wrap:hover {
-  box-shadow: 0 10px 30px rgba(56, 125, 255, 0.17);
-}
-
 .fade-img {
   animation-name: fade-img;
   animation-duration: 2s;
@@ -75,7 +67,6 @@ h1 {
   font-size: 12px;
   font-weight: 700;
   color: #fff;
-  background-color: #1f98f4;
   box-sizing: border-box;
 }
 
@@ -94,9 +85,8 @@ h1 {
   transition: all 0.2s linear;
 }
 
-.cards__item__img:hover {
-  transform: scale(1.1);
-  box-shadow: 0 10px 30px rgba(56, 125, 255, 0.17);
+.cards__item__link:hover {
+  box-shadow: 0 10px 30px rgba(56, 125, 255, 0.30);
 }
 
 .cards__item__info {
