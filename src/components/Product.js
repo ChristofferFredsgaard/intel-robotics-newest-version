@@ -13,7 +13,7 @@ function Product() {
             <li class="grey">Free Yearly Maintenance</li>
             <li>Monthly Updates </li>
             <li>24 Hour Support</li>
-            <li>No Code Access</li>
+            <li>No Software Access</li>
             <li>0 Day Trial</li>
             <li class="grey">
               <a href="mailto:intel-robotics@ir.dk" class="button">
@@ -29,7 +29,7 @@ function Product() {
             <li class="grey">Free Monthly Maintenance</li>
             <li>Weekly Updates</li>
             <li>24 Hour Support</li>
-            <li>Full Code Access</li>
+            <li>Full Software Access</li>
             <li>14 Day Trial</li>
             <li class="grey">
               <a href="mailto:intel-robotics@ir.dk" class="button">
@@ -45,7 +45,7 @@ function Product() {
             <li class="grey">Free Yearly Maintenance</li>
             <li>Monthly Updates</li>
             <li>24 Hour Support</li>
-            <li>Limited Code Access</li>
+            <li>Limited Software Access</li>
             <li>7 Day Trial</li>
             <li class="grey">
               <a href="mailto:intel-robotics@ir.dk" class="button">

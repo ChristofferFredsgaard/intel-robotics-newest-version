@@ -8,7 +8,7 @@ function HeroSection() {
     <div className='hero-container'>
       <video className='hero-video' src='/videos/video-2.mp4' autoPlay loop muted />
       <h1>INTEL ROBOTICS</h1>
-      <p>De bedste robotter på markedet!</p>
+      <p>THE BEST ROBOTS ON THE MARKET!</p>
     </div>
   );
 }

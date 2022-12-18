@@ -18,7 +18,7 @@ function Cards() {
               src='https://www.bila.dk/Files/Billeder/BILA/galleri/UR/UR3/UR16_galleri01_720x440.jpg'
               text='Do you want to tweak our creations? Go ahead! With our IR10+ Pro plan, we support users fully custom code!'
               label='Product'
-              path='/Product'
+              path='/products'
             />
           </ul>
           <ul className='cards__items'>
@@ -38,13 +38,13 @@ function Cards() {
               src='https://images.unsplash.com/photo-1516055619834-586f8c75d1de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmUlMjBjYWxsfGVufDB8fDB8fA%3D%3D&w=1000&q=80'
               text='Want to get in touch? Do not hesitate, contact us here!'
               label='Contact'
-              path='/sign-up'
+              path='/about'
             />
             <CardItem
               src='https://www.bring.dk/en/services/parcels-and-cargo/to-companies/pallets-to-companies/_/image/2cd86603-346c-4328-bb06-153896b94f8a:99a13a2c71719fe164a8e1fa35fa73c5f19e418c/block-1000-600/Bring_anst%C3%A4lld_scannar_flera_paket.JPG.jpeg?quality=50'
               text='How do our products get from factory to our clients?'
               label='Services'
-              path='/sign-up'
+              path='/services'
             />
           </ul>
         </div>

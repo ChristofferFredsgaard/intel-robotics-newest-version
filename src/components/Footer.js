@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-text'>
-          Questions? Write your mail, and we'll contact you as soon as possible!
+          Questions? Write your question, and we'll contact you as soon as possible!
         </p>
         <div className='input-areas'>
           <form>
@@ -16,7 +16,7 @@ function Footer() {
               className='footer-input'
               name='email'
               type='email'
-              placeholder='Mail'
+              placeholder='Question...'
             />
             <Button buttonStyle='btn--outline'>Contact Us</Button>
           </form>
